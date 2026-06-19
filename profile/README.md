@@ -7,9 +7,9 @@
 **A tiny, expressive programming language written in pure Python.**
 
 [![PyPI](https://img.shields.io/pypi/v/glimlang?color=0ABFA3&label=PyPI&style=flat-square)](https://pypi.org/project/glimlang)
-[![License](https://img.shields.io/badge/License-MIT%20%26%20Apache%202.0-0ABFA3?style=flat-square)](https://github.com/glimlang/glimlang/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-0ABFA3?style=flat-square)](https://github.com/glimlang/glimlang/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-0ABFA3?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Stars](https://img.shields.io/github/stars/glimlang/glimlang?color=39D353&style=flat-square)](https://github.com/glimlang/glimlang/stargazers)
+
 [![PyPI Downloads](https://img.shields.io/pypi/dm/glimlang?color=39D353&label=Downloads&style=flat-square)](https://pypi.org/project/glimlang)
 [![Version](https://img.shields.io/badge/stable-v1.2.2-39D353?style=flat-square)](https://github.com/glimlang/glimlang/releases)
 
@@ -178,16 +178,14 @@ Every stage is hand-written in readable Python — no generated parsers, no exte
 
 ## 📄 License
 
-GlimLang is dual-licensed under the **MIT License** and the **Apache License 2.0**.
+GlimLang is dual-licensed under the **Apache License 2.0**.
 
 You may use this project under the terms of either license at your option.
 
-- [MIT License](https://github.com/glimlang/glimlang/blob/main/LICENSE-MIT)
-- [Apache License 2.0](https://github.com/glimlang/glimlang/blob/main/LICENSE-APACHE)
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing (soon Avaliable Repo)
 
 Contributions, issues, and feature requests are welcome!
 
