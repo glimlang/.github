@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/0cbb8d29-f729-4ae8-b8ed-26ad09a556d8" width="160" height="160" alt="GlimLang Gecko Mascot" />
+<img src="https://github.com/user-attachments/assets/bb78b7d1-6ccd-42a9-a283-df48651a9b3a" width="160" height="160" alt="GlimLang Gecko Mascot" />
 
 # GLIM | LANG
 
